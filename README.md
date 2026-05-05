@@ -4,4 +4,6 @@ Presentation.pdf : Nos slides
 
 Rapportdeprojet.pdf : Notre rapport
 
+Preparation_Data : Préparation de données, Analyse Exploratoire, Feature Engineering
+
 
