@@ -1,4 +1,4 @@
-Voici notre travail pour la matière IA applications. 
+Voici notre travail pour la matière IA et applications. 
 
 **Presentation.pdf** : Nos slides
 
