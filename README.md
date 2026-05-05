@@ -6,4 +6,6 @@ Rapportdeprojet.pdf : Notre rapport
 
 Preparation_Data : Préparation de données, Analyse Exploratoire, Feature Engineering
 
+KNN-et-Random_Forest, arbredecision, deeplearning, regression-logistique, xgboost : Nos modèles
+
 
